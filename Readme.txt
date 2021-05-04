@@ -1,4 +1,4 @@
-Project under guidliness of professor at university
+Work under guidliness of professor at university
 
 
 ==========================================
